@@ -3,7 +3,6 @@
     package="com.newthinktank.hellowworld" >
     
     <!-- random comment 666 -->
-
     <application
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
